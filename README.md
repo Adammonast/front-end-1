@@ -24,9 +24,8 @@ Future plans for this project include: Implementing my own backend API to power 
 ## Installation
 
 1) Fork and clone the repository
-2) cd into the folder: *weight-journal*
-3) cd into the folder: *src*
-4) Install dependencies using the commands:
+2) cd into the folder: *src*
+3) Install dependencies using the commands:
 
 OS X:
 
