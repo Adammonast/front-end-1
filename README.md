@@ -9,7 +9,7 @@ Weight Lifting Journal is a web application for keeping track of a workout routi
 
 Future plans for this project include: Implementing my own backend API to power the app (I do not have access to the current one), implementing a better state management system using Redux, and fixing styling issues the deployed site is experiecing. Thank you for viewing this project and all feedback is appreciated!
 
-<img align="center" src=https://user-images.githubusercontent.com/57102880/98874564-7e4aab00-2448-11eb-9d43-c7e2d2029224.png width="600" height="350">
+<img src=https://user-images.githubusercontent.com/57102880/98874564-7e4aab00-2448-11eb-9d43-c7e2d2029224.png align="center" width="600" height="350">
 
 ## Technologies Used:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
