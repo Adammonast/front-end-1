@@ -24,7 +24,7 @@ Future plans for this project include: Fixing bug with adding body weight entrie
 ## Installation
 
 1) Fork and clone the repository
-2) After successfully cloning, run the command cd front-end-1/weight-journal/src
+2) After the repo is cloned, navigate to the folder: *src* 
 3) Install dependencies using the commands:
 
 OS X:
@@ -39,9 +39,12 @@ Windows:
 npm install
 ```
 
+If those steps were followed correctly, your terminal should look like something like this:
+<img src="https://user-images.githubusercontent.com/57102880/98876944-5d388900-244d-11eb-8839-d7534beb8b0e.png" align="center" width="400" height="200" />
+
 ## Development setup
 
-After you fork/clone the repository to your local machine and use the installation command: run one of the following start commands to open the project on your localhost
+
 
 OS X:
 
