@@ -47,8 +47,6 @@ If those steps were followed correctly, your terminal should look like something
 
 ## Development setup
 
-
-
 OS X:
 
 ```sh
