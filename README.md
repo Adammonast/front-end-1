@@ -47,6 +47,8 @@ If those steps were followed correctly, your terminal should look like something
 
 ## Development setup
 
+1) To get the developement server started after installation, simply run the command:
+
 OS X:
 
 ```sh
@@ -58,6 +60,16 @@ Windows:
 ```sh
 npm start
 ```
+
+## Application Flow
+
+Once you start the development server you're good to start using Weight Lifting Journal! To get started, following this user flow guide:
+
+1) Sign Up: Once started, the development server directs you to the Sign Up page. In order to use the application, you must create an account! Follow the form and enter the information required. Once you enter your information and click the button, please wait 3-5 seconds as the response can be delayed. Do not worry about spam emails, we will NEVER send your email anything 😉
+2) Sign In: Once you create your account you will be redirected to the Sign In page. Enter the credentials you just created, click the button, and wait 3-5 seconds as the response can be delayed.
+3) Once you the sign-in/sign-up is flow is successfull, you're in the application! 🎉 You will be redirected to your Dashboard and from there the navigation bar links will change. You'll now have the ability to enter a workout entry!
+
+<img src="https://user-images.githubusercontent.com/57102880/98877724-2499af00-244f-11eb-8407-0a32f73982c4.png" align="center" width="400" height="250" />
 
 ## Let's Connect!
 
