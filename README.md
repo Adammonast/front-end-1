@@ -40,7 +40,9 @@ npm install
 ```
 
 If those steps were followed correctly, your terminal should look like something like this:
+
 <br />
+
 <img src="https://user-images.githubusercontent.com/57102880/98876944-5d388900-244d-11eb-8839-d7534beb8b0e.png" align="center" width="400" height="250" />
 
 ## Development setup
