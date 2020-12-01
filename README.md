@@ -2,9 +2,6 @@
 
 > This repository contains the front-end for the collaborative project Weight Lifting Journal. Within this app, expect to find an application with CRUD functionality allowing users to log their workouts!
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-
 Weight Lifting Journal is a web application for keeping track of a workout routine. This project was a collaborative effort between of a team of 5 cross-functional developers, completed in 1 week. The application was created using React, React Router, and vanilla CSS. I (Adam Monast) was personally responsible for implementing sign-in/sign up forms and functionality, and styling the entire project. 
 
 Future plans for this project include: Fixing the bugs with adding body weight entries, implementing my own backend API to power the app (I do not have access to the current one), implementing a better state management system using Redux, and fixing styling issues the deployed site is experiecing. Thank you for viewing this project and all feedback is appreciated!
@@ -81,8 +78,6 @@ Adam Monast – [LinkedIn](https://www.linkedin.com/in/adam-monast/) – adammon
 
 <!-- Markdown link & img dfn's -->
 
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [linkedin]: https://www.linkedin.com/in/adam-monast/
